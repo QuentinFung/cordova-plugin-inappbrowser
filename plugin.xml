@@ -25,9 +25,9 @@
       </feature>
     </config-file>
 
-    <source-file src="src/android/InAppBrowser.java" target-dir="src/hk/hku/its/inappbrowser" />
-    <source-file src="src/android/InAppBrowserDialog.java" target-dir="src/hk/hku/its/inappbrowser" />
-    <source-file src="src/android/InAppChromeClient.java" target-dir="src/hk/hku/its/inappbrowser" />
+    <source-file src="src/android/hk/hku/its/inappbrowser/InAppBrowser.java" target-dir="src/hk/hku/its/inappbrowser" />
+    <source-file src="src/android/hk/hku/its/inappbrowser/InAppBrowserDialog.java" target-dir="src/hk/hku/its/inappbrowser" />
+    <source-file src="src/android/hk/hku/its/inappbrowser/InAppChromeClient.java" target-dir="src/hk/hku/its/inappbrowser" />
 
     <!--  drawable src/android/resources -->
     <resource-file src="src/android/res/drawable-hdpi/ic_action_next_item.png" target="res/drawable-hdpi/ic_action_next_item.png" />
